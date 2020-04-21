@@ -1,0 +1,32 @@
+{
+  "name": "hyper-sunset",
+  "version": "1.0.0",
+  "description": "Hyper theme with sunset colors",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablopunk/hyper-sunset.git"
+  },
+  "keywords": [
+    "hyper",
+    "sunset",
+    "colors",
+    "theme",
+    "pablopunk",
+    "palette",
+    "pale",
+    "night",
+    "dark",
+    "pastel"
+  ],
+  "author": "Pablo Varela (https://pablo.life)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablopunk/hyper-sunset/issues"
+  },
+  "homepage": "https://github.com/pablopunk/hyper-sunset#readme",
+  "dependencies": {
+    "sunset-colors": "*"
+  }
+}
